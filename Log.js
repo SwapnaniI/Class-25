@@ -1,4 +1,4 @@
-class Log extends Base{
+class Log {
 constructor(x,y,w,angle){
     var options={
         'restitution': 0.6,
